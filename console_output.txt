@@ -1,0 +1,42 @@
+ReferenceError: Can't find variable: dataLayer
+
+  https://www.icicibank.com/:48 in global code
+TypeError: undefined is not a constructor (evaluating '$("._flexslider")._flexslider({animation:"slide",slideshow:false,animationLoop:false,itemWidth:210,itemMargin:5,minItems:2,maxItems:4})')
+
+  https://www.icicibank.com/assets/js/offerZone.min.js:1 in global code
+console message
+400
+console message
+IF  newURL=undefined
+TypeError: undefined is not a constructor (evaluating 'offerId.includes(defaultOffer[o])')
+
+  https://www.icicibank.com/assets/js/offer-json.js:112
+  https://www.icicibank.com/assets/js/lib/nli-index-library.min.js:4 in c
+  https://www.icicibank.com/assets/js/lib/nli-index-library.min.js:4 in fireWith
+  https://www.icicibank.com/assets/js/lib/nli-index-library.min.js:6 in k
+  https://www.icicibank.com/assets/js/lib/nli-index-library.min.js:6 in r
+ReferenceError: Can't find variable: $
+
+  https://www.icicibank.com/chatbot-text-ads.html:1 in global code
+  :0 in insertBefore
+  https://www.googletagmanager.com/gtm.js?id=GTM-KLMZWF:55
+  https://www.googletagmanager.com/gtm.js?id=GTM-KLMZWF:58 in c
+  https://www.googletagmanager.com/gtm.js?id=GTM-KLMZWF:86 in Sf
+  https://www.googletagmanager.com/gtm.js?id=GTM-KLMZWF:184
+  https://www.googletagmanager.com/gtm.js?id=GTM-KLMZWF:180 in vl
+  https://www.googletagmanager.com/gtm.js?id=GTM-KLMZWF:186 in Lg
+  https://www.googletagmanager.com/gtm.js?id=GTM-KLMZWF:119 in Yg
+  https://www.googletagmanager.com/gtm.js?id=GTM-KLMZWF:119 in Zg
+ReferenceError: Can't find variable: $
+
+  https://www.icicibank.com/chatbot-text-ads.html:1 in global code
+  :0 in insertBefore
+  https://www.googletagmanager.com/gtm.js?id=GTM-KLMZWF:55
+  https://www.googletagmanager.com/gtm.js?id=GTM-KLMZWF:58 in c
+  https://www.googletagmanager.com/gtm.js?id=GTM-KLMZWF:86 in Sf
+  https://www.googletagmanager.com/gtm.js?id=GTM-KLMZWF:184
+  https://www.googletagmanager.com/gtm.js?id=GTM-KLMZWF:180 in vl
+  https://www.googletagmanager.com/gtm.js?id=GTM-KLMZWF:186 in Lg
+  https://www.googletagmanager.com/gtm.js?id=GTM-KLMZWF:119 in Yg
+  https://www.googletagmanager.com/gtm.js?id=GTM-KLMZWF:119 in Zg
+load completed

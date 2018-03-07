@@ -1,0 +1,27 @@
+ReferenceError: Can't find variable: $
+
+  https://www.icicibank.com/chatbot-text-ads.html:1 in global code
+  :0 in insertBefore
+  https://www.googletagmanager.com/gtm.js?id=GTM-KLMZWF:55
+  https://www.googletagmanager.com/gtm.js?id=GTM-KLMZWF:58 in c
+  https://www.googletagmanager.com/gtm.js?id=GTM-KLMZWF:86 in Sf
+  https://www.googletagmanager.com/gtm.js?id=GTM-KLMZWF:184
+  https://www.googletagmanager.com/gtm.js?id=GTM-KLMZWF:180 in vl
+  https://www.googletagmanager.com/gtm.js?id=GTM-KLMZWF:186 in Lg
+  https://www.googletagmanager.com/gtm.js?id=GTM-KLMZWF:119 in Yg
+  https://www.googletagmanager.com/gtm.js?id=GTM-KLMZWF:119 in Zg
+ReferenceError: Can't find variable: $
+
+  https://www.icicibank.com/chatbot-text-ads.html:1 in global code
+  :0 in insertBefore
+  https://www.googletagmanager.com/gtm.js?id=GTM-KLMZWF:55
+  https://www.googletagmanager.com/gtm.js?id=GTM-KLMZWF:58 in c
+  https://www.googletagmanager.com/gtm.js?id=GTM-KLMZWF:86 in Sf
+  https://www.googletagmanager.com/gtm.js?id=GTM-KLMZWF:184
+  https://www.googletagmanager.com/gtm.js?id=GTM-KLMZWF:180 in vl
+  https://www.googletagmanager.com/gtm.js?id=GTM-KLMZWF:186 in Lg
+  https://www.googletagmanager.com/gtm.js?id=GTM-KLMZWF:119 in Yg
+  https://www.googletagmanager.com/gtm.js?id=GTM-KLMZWF:119 in Zg
+CONSOLE_ERRORS:[{"colno":10,"lineno":48,"message":"ReferenceError: Can't find variable: dataLayer","source":"https://www.icicibank.com/"},{"colno":17304,"lineno":1,"message":"TypeError: undefined is not a constructor (evaluating '$(\"._flexslider\")._flexslider({animation:\"slide\",slideshow:false,animationLoop:false,itemWidth:210,itemMargin:5,minItems:2,maxItems:4})')","source":"https://www.icicibank.com/assets/js/offerZone.min.js"},{"colno":0,"lineno":10,"message":"SyntaxError: Unexpected token 'const'","source":"https://www.icicibank.com/assets/js/main.js"},{"colno":26,"lineno":112,"message":"TypeError: undefined is not a constructor (evaluating 'offerId.includes(defaultOffer[o])')","source":"https://www.icicibank.com/assets/js/offer-json.js"}]
+resource error
+{"errorCode":1,"errorString":"Connection refused","id":46,"status":null,"statusText":null,"url":"http://localhost:8093/api/postError"}
